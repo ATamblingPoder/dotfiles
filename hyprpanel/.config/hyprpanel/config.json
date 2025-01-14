@@ -396,6 +396,7 @@
         "network",
         "bluetooth",
         "battery",
+        "hypridle",
         "systray",
         "clock",
         "notifications"
@@ -435,5 +436,16 @@
   "bar.autoHide": "never",
   "bar.workspaces.show_icons": false,
   "theme.bar.buttons.workspaces.pill.radius": "1.9rem * 0",
-  "theme.bar.buttons.radius": "0em"
+  "theme.bar.buttons.radius": "0em",
+  "bar.bluetooth.label": false,
+  "theme.bar.buttons.bluetooth.enableBorder": false,
+  "bar.battery.hideLabelWhenFull": false,
+  "bar.battery.label": true,
+  "bar.notifications.hideCountWhenZero": false,
+  "bar.notifications.show_total": false,
+  "theme.osd.enable": true,
+  "menus.volume.raiseMaximumVolume": false,
+  "menus.clock.time.military": false,
+  "theme.bar.buttons.modules.hypridle.enableBorder": false,
+  "bar.customModules.hypridle.label": false
 }
