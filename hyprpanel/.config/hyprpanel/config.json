@@ -410,7 +410,7 @@
   "theme.bar.buttons.battery.enableBorder": false,
   "theme.bar.buttons.notifications.enableBorder": false,
   "theme.bar.buttons.media.enableBorder": false,
-  "wallpaper.image": "/home/anshg/Pictures/gruvbox_lazycat.png",
+  "wallpaper.image": "/home/anshg/.config/hypr/walls/badminton-shot.jpg",
   "theme.bar.buttons.network.enableBorder": false,
   "bar.network.showWifiInfo": true,
   "bar.media.format": "{title}",
@@ -448,5 +448,6 @@
   "menus.clock.time.military": false,
   "theme.bar.buttons.modules.hypridle.enableBorder": false,
   "bar.customModules.hypridle.label": false,
-  "theme.bar.buttons.innerRadiusMultiplier": "0.4"
+  "theme.bar.buttons.innerRadiusMultiplier": "0.4",
+  "theme.bar.buttons.volume.enableBorder": false
 }
